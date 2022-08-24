@@ -9,4 +9,8 @@
 运行登陆
 左栏操作相应功能
 部分页面截图
-登录页
+登录页面
+"C:\Users\jdsfg\Desktop\su\u.github.io\demo20369\src\main\webapp\html\error.html"
+"C:\Users\jdsfg\Desktop\su\u.github.io\demo20369\src\main\webapp\html\index.html"
+"C:\Users\jdsfg\Desktop\su\u.github.io\demo20369\src\main\webapp\html\signin.html"
+"C:\Users\jdsfg\Desktop\su\u.github.io\demo20369\src\main\webapp\html\student.html"
